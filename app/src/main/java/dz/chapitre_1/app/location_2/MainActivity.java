@@ -14,7 +14,7 @@ import com.google.android.gms.location.LocationServices;
 
 public class MainActivity extends AppCompatActivity implements GoogleApiClient.ConnectionCallbacks,GoogleApiClient.OnConnectionFailedListener,LocationListener {
 
-    private final String LOG_TAG="LaurenceTestApp";
+    private final String LOG_TAG="Azz_B_Test";
     private TextView txtLatitude;
     private TextView txtLongitude;
     private GoogleApiClient mGoogleApiClient;
